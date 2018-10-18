@@ -1,0 +1,44 @@
+body{
+	overflow-y: scroll;
+	overflow-x: none;
+}
+.logoImage{
+	height: 80px;
+	width:90px;
+	
+}
+
+.writing{
+	font-family: 'Luckiest Guy', cursive;
+	font-size: 25px;
+}
+#h2, h1,p{
+	font-family: 'Pacifico', cursive;
+}
+#dora{
+	height: 250px;
+	width: 250px;
+}
+.gap{
+	height: 200px
+}
+.size{
+	height:400px;
+	margin: 30px;
+}
+.footer{
+	font-family: 'Pacifico', cursive;
+	font-size: 25px;
+}
+.flx{
+	display: flex !important;
+	justify-content: center !important;
+	align-items: center !important;
+	flex-wrap: wrap !important;
+}
+.col{
+	width:300px;
+	height:400px;
+	margin:20px;
+
+}
